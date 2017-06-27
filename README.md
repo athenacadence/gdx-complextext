@@ -1,15 +1,6 @@
-# my-gdx-extension
+# gdx-complextext
 
-This is the corresponding project to my blog article:
-
-http://tomgrill.de/how-to-write-your-own-libgdx-extension-setup
-
-## Updates & News
-Follow me to receive release updates about this and my other projects (Promise: No BS posts)
-
-https://twitter.com/TomGrillGames and https://www.facebook.com/tomgrillgames
-
-I will also stream sometimes when developing at https://www.twitch.tv/tomgrill and write a blog article from time to time at http://tomgrill.de 
+This project's goal is to provide text-rendering backends for libGDX which support complex text layouts, OpenType fonts, ligatures, RTL text, etc., and provide extended UI classes which render with this library rather than BitmapFont. 
 
 # License
 
