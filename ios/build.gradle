@@ -5,5 +5,5 @@ sourceSets.main.java.srcDirs = [ "src/" ]
 
 
 ext {
-	ARTIFACTID = 'gdx-mygdxextension-ios'
-}	
+	ARTIFACTID = 'gdx-complextext-ios'
+}
