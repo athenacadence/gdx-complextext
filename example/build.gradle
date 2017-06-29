@@ -19,7 +19,7 @@ allprojects {
 
     version = '1.0'
     ext {
-        appName = "gdx-complextext example"
+        appName = "example"
         gdxVersion = '1.9.6'
         roboVMVersion = '2.3.1'
         box2DLightsVersion = '1.4'
