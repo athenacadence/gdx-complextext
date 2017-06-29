@@ -1,1 +1,3 @@
 include 'desktop', 'android', 'ios', 'html', 'core', 'ios-moe'
+include 'com.athenaeumapps.gdxcomplextext'
+project('com.athenaeumapps.gdxcomplextext').projectDir = new File(settingsDir, '../')
